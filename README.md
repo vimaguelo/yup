@@ -4,6 +4,7 @@ yup
 meh
 
 public class cell{
- boolean alive
- int neighbours
+ boolean alive;
+ int neighbours;
+ 
 }
